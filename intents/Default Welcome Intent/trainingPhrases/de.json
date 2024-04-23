@@ -1,5 +1,13 @@
 {
   "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Hi",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  }, {
     "id": "b03084c6-9d80-4790-978a-2adad85b442e",
     "parts": [ {
       "text": "ja hallo",
