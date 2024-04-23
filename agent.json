@@ -1,0 +1,12 @@
+{
+  "defaultLanguageCode": "de",
+  "timeZone": "Europe/Madrid",
+  "projectNumber": 581992197580,
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT"
+}

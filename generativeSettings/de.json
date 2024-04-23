@@ -1,0 +1,6 @@
+{
+  "languageCode": "de",
+  "llmModelSettings": {
+    "model": "gemini-pro"
+  }
+}
