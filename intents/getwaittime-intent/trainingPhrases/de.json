@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "getwaittime "
+    }, {
+      "text": "123456",
+      "parameterId": "interaction_id"
+    }, {
+      "text": ","
+    }, {
+      "text": "routingTarget",
+      "parameterId": "routing_target"
+    }, {
+      "text": ","
+    }, {
+      "text": "agentGroupForIntent",
+      "parameterId": "agent_group_for_intent"
+    }, {
+      "text": ","
+    }, {
+      "text": "targetbusinessGroup",
+      "parameterId": "target_business_group"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

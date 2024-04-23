@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "createsession "
+    }, {
+      "text": "1234010101",
+      "parameterId": "customer_id"
+    }, {
+      "text": " "
+    }, {
+      "text": "1234030190",
+      "parameterId": "phone_number"
+    }, {
+      "text": " "
+    }, {
+      "text": "223344556677",
+      "parameterId": "interaction_id"
+    }, {
+      "text": " "
+    }, {
+      "text": "mychannel",
+      "parameterId": "channel"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

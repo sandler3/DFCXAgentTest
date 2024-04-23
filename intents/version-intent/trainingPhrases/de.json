@@ -1,0 +1,14 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "version ",
+      "auto": true
+    }, {
+      "text": "11111",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

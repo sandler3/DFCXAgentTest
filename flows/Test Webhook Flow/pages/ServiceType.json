@@ -1,0 +1,120 @@
+{
+  "name": "eaf1eb94-6b63-41c7-a19e-39eb5a5d221b",
+  "displayName": "ServiceType",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "createsession-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "createsession-webhook",
+      "tag": "createsession"
+    },
+    "name": "ae082330-029c-4a35-88bc-36e5dec363b8"
+  }, {
+    "intent": "getpersonaladvisorreachability-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "getpersonaladvisorreachability-webhook",
+      "tag": "getpersonaladvisorreachability"
+    },
+    "name": "bd422b51-be99-4443-ab05-c10ac5fc6915"
+  }, {
+    "intent": "updatecontact-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "updatecontact-webhook",
+      "tag": "updatecontact"
+    },
+    "name": "fd2493f0-ef05-436c-8652-2ca7c357cb41"
+  }, {
+    "intent": "insertfeedbackrecord-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "insertfeedbackrecord-webhook",
+      "tag": "insertfeedbackrecord"
+    },
+    "name": "dc02bd32-d0cb-42dd-b872-54243825408f"
+  }, {
+    "intent": "storefeedbackflagforintent-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "storefeedbackflagforintent-webhook",
+      "tag": "storefeedbackflagforintent"
+    },
+    "name": "d8f18851-4463-4021-8f3b-1c798a31ea47"
+  }, {
+    "intent": "getwaittime-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "getwaittime-webhook",
+      "tag": "getwaittime"
+    },
+    "name": "25a3e836-f529-42b4-a976-790893b2d535"
+  }, {
+    "intent": "readintentvalues-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "readintentvalues-webhook",
+      "tag": "readintent"
+    },
+    "name": "24954278-38e6-4ee4-ac3d-21e46dd35788"
+  }, {
+    "intent": "checkresponsesforconnectorterminate-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "checkresponsesforconnectorterminate-webhook",
+      "tag": "checkresponsesforconnectorterminate"
+    },
+    "name": "3d8faa96-4855-4111-8c97-e68c90bff714"
+  }, {
+    "intent": "setparamjson-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "setparamjson-webhook",
+      "tag": "setparamjson"
+    },
+    "name": "3e91d9ac-3c8f-49fb-a648-fe57b7d9e8dd"
+  }, {
+    "intent": "extractNumbers-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "extractNumbers-webhook",
+      "tag": "extractNumbers"
+    },
+    "name": "e4218ab5-dbf8-41b6-bc31-a5a2fd3d0ced"
+  }, {
+    "intent": "closeSession-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "closesession-webhook",
+      "tag": "closesession"
+    },
+    "name": "72442cc6-cd1a-4ac3-83b2-9b2e44583943"
+  }, {
+    "intent": "heartbeat-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "heartbeat-webhook",
+      "tag": "heartbeat"
+    },
+    "name": "74ff12bb-13fa-4e36-a18c-4cbd1e729327"
+  }, {
+    "intent": "version-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "version-webhook",
+      "tag": "version"
+    },
+    "name": "ddfccd9a-a585-4f45-8a7e-c3755ecdc6bf"
+  }, {
+    "intent": "getlastagentutterance-intent",
+    "condition": "true",
+    "triggerFulfillment": {
+      "webhook": "getlastagentutterance-webhook",
+      "tag": "getlastagentutterance"
+    },
+    "name": "9f8d0354-1214-464a-8895-323886803bbf"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "e027ff91-6c8d-45e7-b019-f87c98f29bac",
+  "displayName": "insertfeedbackrecord-intent",
+  "parameters": [ {
+    "id": "interaction_id",
+    "entityType": "@sys.any"
+  }, {
+    "id": "rating",
+    "entityType": "@sys.any"
+  }, {
+    "id": "employee_team",
+    "entityType": "@sys.any"
+  }, {
+    "id": "channel",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

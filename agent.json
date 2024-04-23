@@ -1,12 +1,43 @@
 {
   "defaultLanguageCode": "de",
   "timeZone": "Europe/Madrid",
-  "projectNumber": 581992197580,
+  "projectNumber": 1025998715929,
+  "speechToTextSettings": {
+  
+  },
   "startFlow": "Default Start Flow",
+  "enableStackdriverLogging": true,
   "advancedSettings": {
-    "loggingSettings": {
+    "audioExportGcsDestination": {
     
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+      "enableStackdriverLogging": true
     }
   },
-  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT"
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT",
+  "speakerIdSettings": {
+  
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "duplexSettings": {
+  
+  },
+  "answerFeedbackSettings": {
+  
+  },
+  "webClientSettings": {
+  
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "988e837c-c29a-4386-87c1-7d9de248f30c",
+  "displayName": "getwaittime-intent",
+  "parameters": [ {
+    "id": "interaction_id",
+    "entityType": "@sys.any"
+  }, {
+    "id": "routing_target",
+    "entityType": "@sys.any"
+  }, {
+    "id": "agent_group_for_intent",
+    "entityType": "@sys.any"
+  }, {
+    "id": "target_business_group",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

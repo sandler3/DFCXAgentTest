@@ -1,0 +1,10 @@
+{
+  "name": "50d77b27-ebb5-4cf1-8201-c60d465417ca",
+  "displayName": "getlastagentutterance-intent",
+  "parameters": [ {
+    "id": "any",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

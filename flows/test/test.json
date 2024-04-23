@@ -1,20 +1,14 @@
 {
-  "name": "00000000-0000-0000-0000-000000000000",
-  "displayName": "Default Start Flow",
-  "description": "A start flow created along with the agent",
+  "name": "4192d814-4a6e-46a6-a62e-67308f8c87bb",
+  "displayName": "test",
   "transitionRoutes": [ {
     "intent": "Default Welcome Intent",
+    "condition": "true",
     "triggerFulfillment": {
-      "messages": [ {
-        "text": {
-          "text": [ "Hallo!", "Guten Tag!", "Ich grüße dich!", "Hi" ]
-        },
-        "languageCode": "de"
-      } ],
-      "webhook": "getCustomerTypeDirect",
-      "tag": "test"
+      "webhook": "ce-test",
+      "tag": "ce-test"
     },
-    "name": "6d0e15ba-9842-42e8-b132-8fe58f394e96"
+    "name": "4c727192-0364-44e5-9826-8e1004c469fb"
   } ],
   "eventHandlers": [ {
     "event": "sys.no-match-default",
@@ -26,7 +20,7 @@
         "languageCode": "de"
       } ]
     },
-    "name": "865aaaae-2af4-4b07-ad6a-a415717c8304"
+    "name": "79aa4cb4-db41-4811-99e2-ffb98d19e020"
   }, {
     "event": "sys.no-input-default",
     "triggerFulfillment": {
@@ -37,7 +31,7 @@
         "languageCode": "de"
       } ]
     },
-    "name": "73760550-bdbe-49e7-a31a-6d4546d6a599"
+    "name": "ef6feb86-16b9-40d7-bd78-fc20021fa110"
   } ],
   "nluSettings": {
     "modelType": "MODEL_TYPE_ADVANCED",

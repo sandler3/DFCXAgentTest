@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "storefeedbackflagforintent "
+    }, {
+      "text": "123456",
+      "parameterId": "interaction_id"
+    }, {
+      "text": ","
+    }, {
+      "text": "user",
+      "parameterId": "gms_user"
+    }, {
+      "text": ","
+    }, {
+      "text": "feedbackFlag",
+      "parameterId": "show_feedback"
+    }, {
+      "text": ","
+    }, {
+      "text": "ttl",
+      "parameterId": "ttl"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

@@ -1,0 +1,12 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "checkresponsesforconnectorterminate "
+    }, {
+      "text": "asd",
+      "parameterId": "some_param"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

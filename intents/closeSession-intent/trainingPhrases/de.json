@@ -1,0 +1,22 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "closesession "
+    }, {
+      "text": "12345678",
+      "parameterId": "customer_id"
+    }, {
+      "text": " "
+    }, {
+      "text": "545451",
+      "parameterId": "mchc_session_id"
+    }, {
+      "text": " "
+    }, {
+      "text": "54545",
+      "parameterId": "interaction_id"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

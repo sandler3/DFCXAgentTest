@@ -1,0 +1,10 @@
+{
+  "name": "a23ac0b2-df3d-4867-a1c5-46ad83be356d",
+  "displayName": "getpersonaladvisorreachability-intent",
+  "parameters": [ {
+    "id": "ndg",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

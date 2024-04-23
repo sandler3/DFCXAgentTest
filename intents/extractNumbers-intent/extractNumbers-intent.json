@@ -1,0 +1,10 @@
+{
+  "name": "d16effd0-c138-47a1-862c-f4a48914e46d",
+  "displayName": "extractNumbers-intent",
+  "parameters": [ {
+    "id": "any",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

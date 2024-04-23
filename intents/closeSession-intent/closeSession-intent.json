@@ -1,0 +1,16 @@
+{
+  "name": "a1aaa091-9378-42db-bc8f-12686191459e",
+  "displayName": "closeSession-intent",
+  "parameters": [ {
+    "id": "customer_id",
+    "entityType": "@sys.any"
+  }, {
+    "id": "mchc_session_id",
+    "entityType": "@sys.any"
+  }, {
+    "id": "interaction_id",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

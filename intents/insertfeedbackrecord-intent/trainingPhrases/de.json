@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "insertfeedbackrecord "
+    }, {
+      "text": "123456",
+      "parameterId": "interaction_id"
+    }, {
+      "text": ","
+    }, {
+      "text": "5",
+      "parameterId": "rating"
+    }, {
+      "text": ","
+    }, {
+      "text": "team",
+      "parameterId": "employee_team"
+    }, {
+      "text": ","
+    }, {
+      "text": "voice",
+      "parameterId": "channel"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "de"
+  } ]
+}

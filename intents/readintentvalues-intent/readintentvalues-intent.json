@@ -1,0 +1,10 @@
+{
+  "name": "7ae7ecb6-0674-499a-a199-5934aa752c5c",
+  "displayName": "readintentvalues-intent",
+  "parameters": [ {
+    "id": "some_param",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

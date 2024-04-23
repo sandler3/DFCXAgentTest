@@ -1,0 +1,10 @@
+{
+  "name": "86e4cc97-427e-402d-8fa4-f2182ba99b90",
+  "displayName": "setparamjson-intent",
+  "parameters": [ {
+    "id": "some_param",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "68ce6461-449f-42f3-a344-d039f0546bd3",
+  "displayName": "createsession-intent",
+  "parameters": [ {
+    "id": "phone_number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "interaction_id",
+    "entityType": "@sys.number"
+  }, {
+    "id": "channel",
+    "entityType": "@sys.any"
+  }, {
+    "id": "customer_id",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

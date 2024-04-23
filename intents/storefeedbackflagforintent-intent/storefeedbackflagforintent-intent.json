@@ -1,0 +1,19 @@
+{
+  "name": "48df7ad5-7404-45ed-9044-3e84f6d599a3",
+  "displayName": "storefeedbackflagforintent-intent",
+  "parameters": [ {
+    "id": "interaction_id",
+    "entityType": "@sys.any"
+  }, {
+    "id": "show_feedback",
+    "entityType": "@sys.any"
+  }, {
+    "id": "gms_user",
+    "entityType": "@sys.any"
+  }, {
+    "id": "ttl",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}
